@@ -1,4 +1,3 @@
-from uber.common import *
 from ._version import __version__
 from .config import *
 from .models import *
